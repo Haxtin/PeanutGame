@@ -1,2 +1,0 @@
-# PeanutGame
-Dylan is dumb
